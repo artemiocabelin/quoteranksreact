@@ -1,0 +1,10 @@
+.quote-box {
+    border: 1px solid black;
+    height: 200px;
+    margin-top: 10px;
+}
+
+.block {
+    display: block !important;
+    margin-top:5px;
+}
